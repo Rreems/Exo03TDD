@@ -1,0 +1,6 @@
+C:\Users\Administrateur\Documents\DossierTravail\Module TDD\ExoTDD\Exo03.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Exo03.Tests
+C:\Users\Administrateur\Documents\DossierTravail\Module TDD\ExoTDD\Exo03.Tests\obj\Debug\net8.0\Exo03.Tests.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Documents\DossierTravail\Module TDD\ExoTDD\Exo03.Tests\obj\Debug\net8.0\Exo03.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\DossierTravail\Module TDD\ExoTDD\Exo03.Tests\obj\Debug\net8.0\Exo03.Tests.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\DossierTravail\Module TDD\ExoTDD\Exo03.Tests\obj\Debug\net8.0\Exo03.Tests.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\DossierTravail\Module TDD\ExoTDD\Exo03.Tests\obj\Debug\net8.0\Exo03.Tests.csproj.CoreCompileInputs.cache

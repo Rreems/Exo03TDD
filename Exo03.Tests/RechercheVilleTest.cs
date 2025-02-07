@@ -60,4 +60,18 @@ public sealed class RechercheVilleTest
         CollectionAssert.AreEquivalent(excepted, actual);
     }
 
+    // RED 3
+    [Test]
+    public void When_RechercherMot_Except_VillesConcerneesCasseRespectee()
+    {
+        // Arrange
+        const string mot = "va";
+        List<String> excepted = new List<String>() { "Valence", "Vancouver" };
+
+        // Act
+        List<string> actual = _rechercheVille.Rechercher(mot);
+
+        // Assert 
+        CollectionAssert.AreEquivalent(excepted, actual);
+    }
 }

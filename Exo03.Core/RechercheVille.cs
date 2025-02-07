@@ -23,6 +23,8 @@ public class RechercheVille
 
         // 2. Si le texte de recherche est égal ou supérieur à 2 caractères, il doit renvoyer tous
         // les noms de ville commençant par le texte de recherche exact.
+        //Par exemple, pour le texte de recherche "Va", la fonction doit renvoyer Valence et
+        //Vancouver
         return _villes.Where(x => x.Contains(mot))
                       .ToList();
 
@@ -34,11 +36,6 @@ public class RechercheVille
 
 
 
-
-
-
-    //Par exemple, pour le texte de recherche "Va", la fonction doit renvoyer Valence et
-    //Vancouver
     // 3. La fonctionnalité de recherche doit être insensible à la casse
 
 

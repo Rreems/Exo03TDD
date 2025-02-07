@@ -9,3 +9,4 @@ C:\Users\Administrateur\Documents\DossierTravail\Module TDD\ExoTDD\Exo03.Core\ob
 C:\Users\Administrateur\Documents\DossierTravail\Module TDD\ExoTDD\Exo03.Core\obj\Debug\net8.0\refint\Exo03.Core.dll
 C:\Users\Administrateur\Documents\DossierTravail\Module TDD\ExoTDD\Exo03.Core\obj\Debug\net8.0\Exo03.Core.pdb
 C:\Users\Administrateur\Documents\DossierTravail\Module TDD\ExoTDD\Exo03.Core\obj\Debug\net8.0\ref\Exo03.Core.dll
+C:\Users\Administrateur\Documents\DossierTravail\Module TDD\ExoTDD\Exo03.Core\obj\Debug\net8.0\Exo03.Core.sourcelink.json

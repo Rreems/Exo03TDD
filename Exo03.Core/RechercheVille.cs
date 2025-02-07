@@ -14,6 +14,13 @@ public class RechercheVille
     
     public List<string> Rechercher(string mot)
     {
+        if (mot.Length < 2)
+        {
+            throw new RechercherVilleNotFoundException("Ville non trouvée.");
+        }
+
+
+
         throw new NotImplementedException();
     }
 

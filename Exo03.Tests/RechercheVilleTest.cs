@@ -45,4 +45,19 @@ public sealed class RechercheVilleTest
         Assert.Throws<RechercherVilleNotFoundException>(() => _rechercheVille.Rechercher(OneLetter));
     }
 
+    // RED 2
+    [Test]
+    public void When_RechercherMot_Except_VillesConcernees()
+    {
+        // Arrange
+        const string mot = "Va";
+        List<String> excepted = new List<String>() { "Valence", "Vancouver" };
+
+        // Act
+        List<string> actual = _rechercheVille.Rechercher(mot);
+
+        // Assert 
+        CollectionAssert.AreEquivalent(excepted, actual);
+    }
+
 }
